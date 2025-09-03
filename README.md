@@ -1,10 +1,10 @@
-🏦 Banking Microservices Application
+🏦 Capstone Project - Banking Microservices (Wipro)
 
-A complete Banking Microservices Project built with Spring Boot 3, Java 17, MySQL, Kafka, Angular 17, and a microservices architecture.
+A complete Banking Microservices Project built with Spring Boot 3, Java 17, MySQL, Kafka, Angular 17, and a microservices architecture as part of the Wipro Capstone Project.
 
 🚀 Features
 
-Config Server for centralized configuration
+Centralized Config Server
 
 Eureka Server for service discovery
 
@@ -45,7 +45,7 @@ Frontend: Angular 17
 Documentation: Swagger / OpenAPI
 
 📂 Project Structure
-banking-application/
+Capstone_Project_Wipro/
 │── config-server/
 │── eureka-server/
 │── auth-service/
@@ -63,8 +63,8 @@ banking-application/
 
 ⚙️ Setup Instructions
 1️⃣ Clone the repository
-git clone https://github.com/your-username/banking-application.git
-cd banking-application
+git clone https://github.com/Vinu2111/Capstone_Project_Wipro.git
+cd Capstone_Project_Wipro
 
 2️⃣ Start Config Server
 cd config-server
@@ -104,7 +104,7 @@ Prometheus → http://localhost:9090
 
 Zipkin → http://localhost:9411
 
-Kafka UI → Producer/Consumer logs in terminal
+Kafka → Producer/Consumer logs in terminal
 
 🧪 Testing
 
@@ -128,3 +128,12 @@ Fund Transfer
 Transaction History
 
 Notifications
+
+👨‍💻 Author
+
+Vinayak Santosh Gote
+📧 vinayakgote2111@gmail.com
+
+📌 Batch 2 | BE Computer Engineering | CGPA 9.30
+
+🔗 GitHub: Vinu2111
